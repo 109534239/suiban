@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Home">
+        <item>有哪些種類?</item>
+        <item>尋求幫助</item>
+        <item>可驗傷醫院</item>
+        <item></item>
+    </string-array>
+</resources>
